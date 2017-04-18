@@ -1,0 +1,20 @@
+header {
+    background-color: #DF0101; 
+}
+
+
+
+a {
+    color: white;
+    font-size: 20px;
+}
+
+li {
+    display: inline-block;
+    padding: 15px;
+    list-style: none;
+}
+
+body {
+    background-color: black;
+}
