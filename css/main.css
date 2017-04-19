@@ -1,5 +1,6 @@
 header {
     background-color: #DF0101; 
+    padding: 10px;
 }
 
 
@@ -7,6 +8,10 @@ header {
 a {
     color: white;
     font-size: 20px;
+}
+
+a:hover {
+    font-size: 30px;
 }
 
 li {
@@ -17,4 +22,36 @@ li {
 
 body {
     background-color: black;
+    margin: 30px;
+}
+
+#contenedorImagenes {
+    margin: 30px;
+}
+
+div {
+    display: inline-block;
+}
+
+img {
+    margin: 35px;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    border-radius: 100px;
+}
+
+.opcion {
+    width: 100px;
+    height: 20px;
+    color: white;
+    background-color: #DF0101; 
+    margin: 10px;
+    padding-top: 10px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+#contenedorOpciones {
+    margin-left: 100px;
 }
