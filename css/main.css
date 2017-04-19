@@ -55,3 +55,13 @@ img {
 #contenedorOpciones {
     margin-left: 100px;
 }
+
+p {
+    display: inline-block;
+    width: 300px;
+    color: white;
+    margin-left: 150px;
+    margin-top: 20px;
+    padding: 20px;
+    font-size: 14px;
+}
